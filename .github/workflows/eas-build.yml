@@ -34,14 +34,14 @@ jobs:
           eas build:download --id=$BUILD_ID --non-interactive --path=./app-release.apk
 
       - name: Upload APK as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: app-release-apk
           path: app-release.apk
 
       - name: Create Release
         if: success()
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: app-release.apk
           tag_name: build-${{ github.run_number }}
