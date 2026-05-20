@@ -1,0 +1,52 @@
+name: EAS Build APK
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18.x
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install EAS CLI
+        run: npm install -g eas-cli
+
+      - name: Build APK with EAS
+        run: eas build --platform android --non-interactive
+        env:
+          EAS_TOKEN: ${{ secrets.EAS_TOKEN }}
+
+      - name: Download APK
+        run: |
+          BUILD_ID=$(eas build:list --platform android --non-interactive --json | jq -r '.[0].id')
+          echo "BUILD_ID=$BUILD_ID" >> $GITHUB_ENV
+          eas build:download --id=$BUILD_ID --non-interactive --path=./app-release.apk
+
+      - name: Upload APK as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: app-release-apk
+          path: app-release.apk
+
+      - name: Create Release
+        if: success()
+        uses: softprops/action-gh-release@v1
+        with:
+          files: app-release.apk
+          tag_name: build-${{ github.run_number }}
+          body: |
+            APK built from commit ${{ github.sha }}
+            Download the APK and install on your Android device
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
