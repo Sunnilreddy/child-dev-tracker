@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Little Bloom",
+    "slug": "little-bloom",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F0FAF4"
+    },
+    "scheme": "littlebloom",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.littlebloom.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F0FAF4"
+      },
+      "package": "com.littlebloom.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 23
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f06deb5f-7002-42e3-b7b6-051f21addbd4"
+      }
+    }
+  }
+}

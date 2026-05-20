@@ -1,0 +1,137 @@
+const en = {
+  // Tabs
+  tabHome: 'Home',
+  tabActivities: 'Activities',
+  tabPlay: 'Play',
+  tabProgress: 'Progress',
+
+  // Greetings
+  greetMorning: 'Good Morning',
+  greetAfternoon: 'Good Afternoon',
+  greetEvening: 'Good Evening',
+
+  // Dashboard
+  streakBadge: 'day streak! 🔥',
+  statToday: 'Today',
+  statWeek: 'This Week',
+  statPoints: 'Total Points',
+  statStreak: 'Streak',
+  emotionalGrowth: 'Emotional Growth',
+  intellectualGrowth: 'Intellectual Growth',
+  weeklyProgress: 'Weekly Progress',
+  weeklyGoal: 'weekly goal',
+  featuredActivity: "Today's Activity",
+  startActivity: 'Start',
+  quickNav: 'Explore',
+  indoor: 'Indoor',
+  outdoor: 'Outdoor',
+  play: 'Play Games',
+  viewProgress: 'My Progress',
+  doneToday: 'done today',
+  doneThisWeek: 'done this week',
+  points: 'pts',
+
+  // Activities
+  allFilter: 'All',
+  searchPlaceholder: 'Search activities...',
+  minutes: 'min',
+  easy: 'Easy',
+  medium: 'Medium',
+  hard: 'Hard',
+  watchVideo: 'Watch Video',
+  markComplete: 'Mark Done',
+  completed: 'Done! ✓',
+  materialsNeeded: 'You will need',
+  instructions: 'How to play',
+  noActivities: 'No activities found',
+  tryDifferent: 'Try a different search or filter',
+  activityDetail: 'Activity Detail',
+  developmentalFocus: 'Skills',
+
+  // Focus filters
+  focusCognitive: 'Thinking',
+  focusLanguage: 'Language',
+  focusEmotional: 'Emotional',
+  focusEmpathy: 'Empathy',
+  focusSelfReg: 'Calm',
+  focusMotor: 'Motor',
+
+  // Video
+  videoTitle: 'Watch Video',
+  videoTip: 'Watch the full video first, then try the activity with your child.',
+  openVideo: 'Open Video',
+  videoNotice: 'Opens in YouTube',
+
+  // Progress
+  totalDone: 'Total Done',
+  thisWeek: 'This Week',
+  myProgress: 'Development',
+  milestones: 'Milestones',
+  recentActivities: 'Recent Activities',
+  noActivitiesYet: 'No activities yet',
+  startFirst: 'Complete your first activity to see progress here!',
+  progressBanner: 'Progress Summary',
+  emotionalMilestones: 'Emotional Milestones',
+  intellectualMilestones: 'Intellectual Milestones',
+  completed_label: 'completed',
+
+  // Games
+  gamesTitle: 'Games & Play',
+  gamesSubtitle: 'Fun learning through play',
+  emotionMatch: 'Emotion Match',
+  emotionMatchDesc: 'Find the matching emotion face',
+  colorTap: 'Color Tap',
+  colorTapDesc: 'Tap the correct color!',
+  countingGame: 'Count the Stars',
+  countingGameDesc: 'How many can you count?',
+  score: 'Score',
+  playAgain: 'Play Again!',
+  tapThe: 'Tap the',
+  howManyStars: 'How many stars?',
+  findMatch: 'Find the matching face!',
+  parentTip: 'Parent Tip',
+  parentTipText: 'Play together! Ask your child to name the emotion, color, or number out loud.',
+  correct: 'Correct! 🎉',
+  tryAgain: 'Try again! 💪',
+  roundOf: 'of',
+
+  // Auth
+  welcomeTitle: 'Little Bloom',
+  welcomeSubtitle: 'Track your child\'s development journey',
+  signInGoogle: 'Sign in with Google',
+  signingIn: 'Signing in...',
+  orContinue: 'to sync progress across all family devices',
+
+  // Family Setup
+  familySetupTitle: 'Set Up Your Family',
+  familySetupSubtitle: 'Connect all devices to share progress',
+  createFamily: 'Create New Family',
+  joinFamily: 'Join Existing Family',
+  yourFamilyCode: 'Your Family Code',
+  shareCodeHint: 'Share this code with family members so they can join',
+  enterCode: 'Enter Family Code',
+  enterCodeHint: 'Ask the caretaker for the 8-letter code',
+  join: 'Join Family',
+  creating: 'Creating...',
+  joining: 'Joining...',
+  codeNotFound: 'Family code not found. Please check and try again.',
+  invalidCode: 'Please enter a valid 8-character code',
+  familyName: 'Family Name',
+  familyNameHint: "e.g. Sunni's Family",
+  childName: 'Child\'s Name',
+  childNameHint: "Your child's name",
+  create: 'Create Family',
+
+  // Settings / top bar
+  signOut: 'Sign Out',
+  language: 'Language',
+  langEn: 'English',
+  langTe: 'తెలుగు',
+  familyCode: 'Family Code',
+  syncStatus: 'Syncing...',
+  synced: 'Synced ✓',
+  localMode: 'Local mode',
+};
+
+export default en;
+export type Strings = typeof en;

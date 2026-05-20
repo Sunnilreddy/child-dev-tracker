@@ -1,0 +1,662 @@
+{
+  "activities": [
+    {
+      "id": "act_001",
+      "title": "Emotion Faces Mirror Game",
+      "titleTe": "అద్దం ముందు భావాలు",
+      "description": "Help your child recognize and name emotions by making faces together in the mirror.",
+      "descriptionTe": "అద్దం ముందు కూర్చుని వివిధ భావాల ముఖ కవళికలు చూపించండి - సంతోషం, విచారం, ఆశ్చర్యం నేర్పించండి.",
+      "category": "indoor",
+      "developmentalFocus": ["emotional", "empathy", "self-regulation"],
+      "duration": 15,
+      "difficulty": "easy",
+      "materials": ["Large mirror"],
+      "youtubeVideoId": "l4NKBarHVWo",
+      "youtubeTitle": "Teaching Emotions to Toddlers with Mirror Activity",
+      "instructions": [
+        "Sit together in front of a mirror at your child's eye level.",
+        "Start with happy: make the biggest smile you can and say 'This is my HAPPY face!'",
+        "Take turns making sad, angry, surprised, scared, and excited faces.",
+        "For each emotion, ask: 'When do YOU feel this way?'",
+        "End by letting your child pick any emotion face and you guess it."
+      ],
+      "instructionsTe": [
+        "పిల్లల ఎత్తులో అద్దం ముందు కలిసి కూర్చోండి.",
+        "సంతోషంతో మొదలు పెట్టండి - పెద్ద నవ్వు నవ్వి 'ఇది నా సంతోషపు ముఖం!' అని చెప్పండి.",
+        "విచారం, కోపం, ఆశ్చర్యం, భయం, ఉత్సాహం - ఒక్కొక్కటి చేయండి.",
+        "ప్రతి భావానికి అడగండి: 'నీకు ఎప్పుడు ఈ భావం కలుగుతుంది?'",
+        "చివరగా పిల్లలు ఒక భావం చేయనివ్వండి, మీరు అదేమిటో అంచనా వేయండి."
+      ],
+      "milestoneCategory": "emotional",
+      "points": 10,
+      "tags": ["emotions", "empathy", "mirror", "feelings", "self-awareness"],
+      "emoji": "🪞"
+    },
+    {
+      "id": "act_002",
+      "title": "Playdough Storytelling",
+      "titleTe": "ప్లేడో కథ చెప్పడం",
+      "description": "Use playdough to sculpt characters from a story you invent together.",
+      "descriptionTe": "ప్లేడోతో పాత్రలు తయారు చేసి కలిసి కొత్త కథ చెప్పండి. భాష, సృజనాత్మకత మరియు చేతి కదలికలు పెరుగుతాయి.",
+      "category": "indoor",
+      "developmentalFocus": ["cognitive", "language", "motor"],
+      "duration": 25,
+      "difficulty": "easy",
+      "materials": ["Playdough (2–3 colors)", "Plastic tools (optional)", "Flat surface"],
+      "youtubeVideoId": "j7OHG7tHrNM",
+      "youtubeTitle": "Playdough Story Time Activity for Preschoolers",
+      "instructions": [
+        "Give your child two or three colors of playdough.",
+        "Say: 'Let's make up a story! I'll make a character, you make a character.'",
+        "Start a simple story: 'Once upon a time there was a small green frog...'",
+        "Encourage your child to add to the story and sculpt new elements.",
+        "Ask open questions: 'What happens next? How does the frog feel?'"
+      ],
+      "instructionsTe": [
+        "పిల్లలకు రెండు లేదా మూడు రంగుల ప్లేడో ఇవ్వండి.",
+        "చెప్పండి: 'కలిసి ఒక కథ తయారు చేద్దాం! నేను ఒక పాత్ర, నువ్వు ఒక పాత్ర తయారు చేయి.'",
+        "కథ మొదలు పెట్టండి: 'ఒక చిన్న పచ్చని కప్ప ఉండేది...'",
+        "పిల్లలు కథకు కొత్త విషయాలు చేర్చమని ప్రోత్సహించండి.",
+        "ప్రశ్నలు అడగండి: 'తర్వాత ఏమి జరుగుతుంది? కప్పకు ఎలా అనిపించింది?'"
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 15,
+      "tags": ["language", "storytelling", "motor", "creativity", "imagination"],
+      "emoji": "🟢"
+    },
+    {
+      "id": "act_003",
+      "title": "Colour Sorting Bin Challenge",
+      "titleTe": "రంగుల వరుస ఆట",
+      "description": "A hands-on sorting game that develops early math thinking and colour recognition.",
+      "descriptionTe": "వివిధ రంగుల వస్తువులను వేరు వేరు పాత్రలలో పెట్టే ఆట. లెక్కలు, రంగుల గుర్తింపు నేర్పుతుంది.",
+      "category": "indoor",
+      "developmentalFocus": ["cognitive", "motor"],
+      "duration": 20,
+      "difficulty": "easy",
+      "materials": ["Small coloured objects (blocks, pom-poms, or buttons)", "4 small bowls or containers"],
+      "youtubeVideoId": "cS8QR0V5KAo",
+      "youtubeTitle": "Color Sorting Game for Toddlers | Preschool Learning",
+      "instructions": [
+        "Place four different-coloured bowls on the floor.",
+        "Mix all small coloured objects into one central pile.",
+        "Show your child: 'All the red ones go in the red bowl!'",
+        "Let them sort independently, cheering each correct placement.",
+        "Once sorted, count together: 'How many blue ones did we find?'"
+      ],
+      "instructionsTe": [
+        "నాలుగు వేర్వేరు రంగుల పాత్రలు నేలపై పెట్టండి.",
+        "అన్ని రంగుల వస్తువులు ఒక చోట కలిపండి.",
+        "చూపించండి: 'ఎర్ర వస్తువులు అన్నీ ఎర్ర పాత్రలో పెట్టాలి!'",
+        "పిల్లలు స్వతంత్రంగా వరుసపెట్టనివ్వండి, ప్రతిసారి మెచ్చుకోండి.",
+        "అయిన తర్వాత కలిసి లెక్కించండి: 'నీలం రంగు ఎన్ని ఉన్నాయి?'"
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 10,
+      "tags": ["sorting", "colours", "math", "motor", "focus"],
+      "emoji": "🎨"
+    },
+    {
+      "id": "act_004",
+      "title": "Feelings Weather Report",
+      "titleTe": "భావాల వాతావరణం",
+      "description": "A bedtime ritual where your child describes their feelings as 'weather.'",
+      "descriptionTe": "పిల్లల భావాలను వాతావరణ రకాలతో పోల్చే ఆట. సంతోషం = సూర్యరశ్మి, విచారం = వర్షం.",
+      "category": "indoor",
+      "developmentalFocus": ["emotional", "language", "self-regulation"],
+      "duration": 10,
+      "difficulty": "easy",
+      "materials": ["Weather emotion chart (printable or drawn together)"],
+      "youtubeVideoId": "9yp0sDWl948",
+      "youtubeTitle": "Feelings Weather Chart Activity for Kids",
+      "instructions": [
+        "Draw or print simple weather symbols: sun, cloud, rain, rainbow, storm, fog.",
+        "Explain: 'Sometimes our feelings are like weather!'",
+        "Let your child point to or name their feeling weather.",
+        "Ask: 'What made it sunny? What brought the rain?'",
+        "Together, pick a weather they'd like tomorrow."
+      ],
+      "instructionsTe": [
+        "సూర్యుడు, మేఘం, వర్షం, ఇంద్రధనుస్సు వాతావరణ చిత్రాలు గీయండి.",
+        "చెప్పండి: 'మన భావాలు వాతావరణ లాంటివి!'",
+        "పిల్లలు తమ భావాన్ని చూపే వాతావరణ చిత్రం చూపించనివ్వండి.",
+        "అడగండి: 'సన్షైన్ ఎందుకు వచ్చింది? వర్షం ఎందుకు వచ్చింది?'",
+        "రేపు ఏ వాతావరణం కావాలో కలిసి ఎంచుకోండి."
+      ],
+      "milestoneCategory": "emotional",
+      "points": 10,
+      "tags": ["emotions", "language", "reflection", "bedtime", "self-regulation"],
+      "emoji": "🌤️"
+    },
+    {
+      "id": "act_005",
+      "title": "Alphabet Sound Hunt",
+      "titleTe": "అక్షర శబ్ద వేట",
+      "description": "Turn the house into an alphabet scavenger hunt. Find objects that start with each letter.",
+      "descriptionTe": "ఇంట్లో అక్షరాలతో మొదలయ్యే వస్తువులు వెతకండి. ధ్వని అవగాహన మరియు పదజాలం పెరుగుతుంది.",
+      "category": "indoor",
+      "developmentalFocus": ["cognitive", "language"],
+      "duration": 20,
+      "difficulty": "medium",
+      "materials": ["Alphabet cards or a written list", "Small bag or basket"],
+      "youtubeVideoId": "BELlZKpi1Zs",
+      "youtubeTitle": "Alphabet Sound Hunt Activity for Preschoolers",
+      "instructions": [
+        "Pick 4–6 letters to focus on (e.g., B, C, D, S, T).",
+        "Say: 'We're going on a letter hunt!'",
+        "Walk through the house together searching for matching objects.",
+        "When you find one, exaggerate the starting sound: 'BALL! Buh-buh-BALL!'",
+        "Place found objects in the bag and review them at the end."
+      ],
+      "instructionsTe": [
+        "4-6 అక్షరాలు ఎంచుకోండి (ఉదా: అ, బ, క, డ).",
+        "చెప్పండి: 'అక్షర వేటకు వెళదాం!'",
+        "కలిసి ఇంట్లో ఆ అక్షరాలతో మొదలయ్యే వస్తువులు వెతకండి.",
+        "దొరికినప్పుడు శబ్దం పెద్దగా చెప్పండి: 'అరటి! అ - అ - అరటి!'",
+        "దొరికిన వస్తువులు సంచిలో వేసి చివరలో చూడండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 15,
+      "tags": ["alphabet", "phonics", "language", "scavenger hunt", "reading-readiness"],
+      "emoji": "🔤"
+    },
+    {
+      "id": "act_006",
+      "title": "Block Tower Engineering",
+      "titleTe": "బ్లాక్స్ టవర్ నిర్మాణం",
+      "description": "Challenge your child to build the tallest tower possible, then problem-solve why it fell.",
+      "descriptionTe": "ఎంత ఎత్తైన టవర్ కట్టగలరో ప్రయత్నించండి. పడిపోతే ఎందుకో ఆలోచించండి - ఇంజనీరింగ్ ఆలోచన నేర్చుకోండి.",
+      "category": "indoor",
+      "developmentalFocus": ["cognitive", "motor"],
+      "duration": 20,
+      "difficulty": "easy",
+      "materials": ["Building blocks (wooden or Duplo)", "Ruler or measuring tape (optional)"],
+      "youtubeVideoId": "rYWbSqM_z5M",
+      "youtubeTitle": "Block Building STEM Activity for Toddlers",
+      "instructions": [
+        "Set out a large pile of blocks and say: 'Let's build the tallest tower in the world!'",
+        "Build alongside your child, asking: 'Which block should go on top?'",
+        "When it falls, stay calm: 'Oops! WHY do you think it fell?'",
+        "Try again with a different strategy.",
+        "Measure the final tower and celebrate."
+      ],
+      "instructionsTe": [
+        "చాలా బ్లాక్స్ పెట్టి చెప్పండి: 'ప్రపంచంలో అన్నిటికంటే ఎత్తైన టవర్ కడదాం!'",
+        "కలిసి కట్టండి, అడగండి: 'పైన ఏ బ్లాక్ వేయాలి?'",
+        "పడిపోతే శాంతంగా ఉండి: 'ఎందుకు పడిపోయింది?'",
+        "వేరే విధంగా మళ్ళీ ప్రయత్నించండి.",
+        "చివరి టవర్ కొలవండి, వేడుక చేయండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 10,
+      "tags": ["STEM", "blocks", "spatial", "motor", "persistence"],
+      "emoji": "🏗️"
+    },
+    {
+      "id": "act_007",
+      "title": "Puppet Emotion Theatre",
+      "titleTe": "బొమ్మల భావ నాటకం",
+      "description": "Use hand puppets or sock puppets to act out emotional scenarios.",
+      "descriptionTe": "చేతి బొమ్మలతో వివిధ భావాల పరిస్థితులు నటించండి. సంక్లిష్ట భావాలను సురక్షితంగా అన్వేషించండి.",
+      "category": "indoor",
+      "developmentalFocus": ["empathy", "emotional", "language"],
+      "duration": 20,
+      "difficulty": "medium",
+      "materials": ["2 sock puppets or hand puppets", "Small blanket as a stage (optional)"],
+      "youtubeVideoId": "k8CymKuD0DM",
+      "youtubeTitle": "Puppet Play for Emotional Learning in Preschoolers",
+      "instructions": [
+        "Give one puppet to your child and keep one yourself.",
+        "Start a simple scenario: 'My puppet is sad because no one wants to play...'",
+        "Pause and ask your child's puppet: 'How do YOU feel about that?'",
+        "Let the story unfold naturally.",
+        "End with resolution — help the puppets solve the problem together."
+      ],
+      "instructionsTe": [
+        "పిల్లలకు ఒక బొమ్మ ఇవ్వండి, మీరు ఒక బొమ్మ తీసుకోండి.",
+        "ఒక పరిస్థితి మొదలు పెట్టండి: 'నా బొమ్మకు ఎవరూ ఆడుకోరు, విచారంగా ఉంది...'",
+        "ఆగి పిల్లల బొమ్మను అడగండి: 'నీకు ఎలా అనిపించింది?'",
+        "కథ సహజంగా సాగనివ్వండి.",
+        "చివరలో బొమ్మలు కలిసి సమస్య పరిష్కరించనివ్వండి."
+      ],
+      "milestoneCategory": "emotional",
+      "points": 15,
+      "tags": ["puppets", "empathy", "language", "role-play", "feelings"],
+      "emoji": "🧸"
+    },
+    {
+      "id": "act_008",
+      "title": "Breathing Buddy Exercise",
+      "titleTe": "శ్వాస స్నేహితుడు",
+      "description": "A mindfulness activity where a stuffed animal on the belly guides deep breathing.",
+      "descriptionTe": "ఆటబొమ్మను పొట్ట పైన వేసి శ్వాస తీసుకోవడం నేర్చుకోండి. శాంతింపజేసే పద్ధతులు నేర్పుతుంది.",
+      "category": "indoor",
+      "developmentalFocus": ["self-regulation", "emotional"],
+      "duration": 10,
+      "difficulty": "easy",
+      "materials": ["Stuffed animal", "Yoga mat or soft surface"],
+      "youtubeVideoId": "RVA2N6tX2cg",
+      "youtubeTitle": "Breathing Buddy Mindfulness for Kids",
+      "instructions": [
+        "Have your child lie on their back with their stuffed animal on their belly.",
+        "Say: 'Let's make your buddy go up to the sky when we breathe in!'",
+        "Inhale slowly for 4 counts, watching the animal rise.",
+        "Exhale for 4 counts, watching it lower.",
+        "Do this 5 times together, then ask: 'How does your body feel now?'"
+      ],
+      "instructionsTe": [
+        "పిల్లలను వెల్లకిలా పడుకోనివ్వండి, ఆటబొమ్మను పొట్ట పైన వేయండి.",
+        "చెప్పండి: 'శ్వాస తీసుకుంటే నీ స్నేహితుడు పైకి వెళ్ళాలి!'",
+        "నెమ్మదిగా 4 లెక్కలకు శ్వాస తీసుకోండి, బొమ్మ పైకి వెళ్ళడం చూడండి.",
+        "4 లెక్కలకు శ్వాస వదలండి, బొమ్మ కిందకు వెళ్ళడం చూడండి.",
+        "5 సార్లు చేసి అడగండి: 'ఇప్పుడు శరీరానికి ఎలా అనిపిస్తోంది?'"
+      ],
+      "milestoneCategory": "emotional",
+      "points": 10,
+      "tags": ["mindfulness", "breathing", "self-regulation", "calm", "yoga"],
+      "emoji": "🧘"
+    },
+    {
+      "id": "act_009",
+      "title": "Memory Card Match",
+      "titleTe": "జ్ఞాపకశక్తి పేకాట",
+      "description": "A classic concentration game using emotion-themed cards.",
+      "descriptionTe": "భావాల కార్డులతో జోడీ కనుగొనే ఆట. జ్ఞాపకశక్తి, శ్రద్ధ మరియు భావోద్వేగ గుర్తింపు పెరుగుతాయి.",
+      "category": "indoor",
+      "developmentalFocus": ["cognitive", "emotional"],
+      "duration": 15,
+      "difficulty": "medium",
+      "materials": ["Emotion memory card set (printable or purchased)", "Flat surface"],
+      "youtubeVideoId": "n51_HHIhBgI",
+      "youtubeTitle": "Emotion Memory Matching Game for Toddlers",
+      "instructions": [
+        "Start with just 6 cards (3 pairs) for a 3-year-old.",
+        "Lay cards face down and take turns flipping two at a time.",
+        "When a match is found, name the emotion together.",
+        "Describe a time that emotion happened.",
+        "Increase to 8 or 10 cards as they get faster."
+      ],
+      "instructionsTe": [
+        "3 సంవత్సరాల పిల్లలకు కేవలం 6 కార్డులతో (3 జంటలు) మొదలు పెట్టండి.",
+        "కార్డులు బోర్లించి వేసి, ఒక్కొక్కరు రెండు తిప్పండి.",
+        "జంట దొరికితే కలిసి భావం పేరు చెప్పండి.",
+        "ఆ భావం ఎప్పుడు కలిగిందో చెప్పండి.",
+        "వేగంగా నేర్చుకుంటే 8 లేదా 10 కార్డులకు పెంచండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 15,
+      "tags": ["memory", "emotions", "cognitive", "attention", "matching"],
+      "emoji": "🃏"
+    },
+    {
+      "id": "act_010",
+      "title": "Kitchen Band & Rhythm Game",
+      "titleTe": "వంటిల్లు వాయిద్య బృందం",
+      "description": "Use pots, spoons, and containers to create a kitchen band.",
+      "descriptionTe": "పాత్రలు, చెంచాలు, డబ్బాలతో సంగీతం వాయించండి. శ్రవణ అభివృద్ధి, భాష సంసిద్ధత పెరుగుతుంది.",
+      "category": "indoor",
+      "developmentalFocus": ["cognitive", "language", "motor"],
+      "duration": 15,
+      "difficulty": "easy",
+      "materials": ["Pots, bowls, or containers", "Wooden spoons", "Any kitchen percussion"],
+      "youtubeVideoId": "wbkbSP1vSV8",
+      "youtubeTitle": "Kitchen Rhythm Band Activity for Toddlers",
+      "instructions": [
+        "Set up a 'drum kit' of different containers on the kitchen floor.",
+        "Demonstrate tapping a simple pattern: tap-tap-rest, tap-tap-rest.",
+        "Ask your child to copy your pattern.",
+        "Switch roles — let them create a pattern for you to copy.",
+        "Play along to a favourite song and let them keep the beat."
+      ],
+      "instructionsTe": [
+        "వంటిల్లులో వేర్వేరు పాత్రలతో 'డ్రమ్ కిట్' తయారు చేయండి.",
+        "సింపుల్ పాటర్న్ చూపించండి: తట్టు-తట్టు-ఆగు, తట్టు-తట్టు-ఆగు.",
+        "పిల్లలు మీ పాటర్న్ నకలు చేయమని అడగండి.",
+        "పాత్రలు మార్చుకోండి - పిల్లలు పాటర్న్ తయారు చేయనివ్వండి.",
+        "ఇష్టమైన పాటకు కలిసి వాయించండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 10,
+      "tags": ["music", "rhythm", "motor", "language", "auditory"],
+      "emoji": "🥁"
+    },
+    {
+      "id": "act_011",
+      "title": "Nature Emotion Walk",
+      "titleTe": "ప్రకృతి భావాల నడక",
+      "description": "A slow, mindful walk where you notice nature and connect it to feelings.",
+      "descriptionTe": "నెమ్మదిగా నడుస్తూ ప్రకృతి చూసి భావాలతో పోల్చండి. 'ఈ మృదువైన ఆకు శాంతిగా అనిపిస్తుంది.'",
+      "category": "outdoor",
+      "developmentalFocus": ["emotional", "empathy", "language"],
+      "duration": 30,
+      "difficulty": "easy",
+      "materials": ["Comfortable shoes", "Small bag for nature finds (optional)"],
+      "youtubeVideoId": "b0m3Z9EvMEg",
+      "youtubeTitle": "Nature Walk Emotions Activity for Young Children",
+      "instructions": [
+        "Walk slowly and encourage your child to touch, smell, and observe.",
+        "Connect textures and sights to emotions: 'This soft moss feels like cozy feels!'",
+        "Ask: 'What does THIS leaf feel like? Happy or grumpy?'",
+        "Collect a 'feelings stone' — a smooth rock that feels calm to hold.",
+        "Back home, draw or describe one thing from the walk."
+      ],
+      "instructionsTe": [
+        "నెమ్మదిగా నడుస్తూ స్పర్శించడం, వాసన చూడడం, చూడడం ప్రోత్సహించండి.",
+        "ప్రకృతిని భావాలతో పోల్చండి: 'ఈ మృదువైన నాచు శాంతిగా అనిపిస్తుంది!'",
+        "అడగండి: 'ఈ ఆకు ఎలా అనిపిస్తుంది? సంతోషంగా ఉందా కోపంగా ఉందా?'",
+        "శాంతిగా అనిపించే ఒక మృదువైన రాయి సేకరించండి.",
+        "ఇంటికి వచ్చాక నడకలో చూసిన ఒక విషయం గురించి మాట్లాడండి."
+      ],
+      "milestoneCategory": "emotional",
+      "points": 15,
+      "tags": ["nature", "emotions", "sensory", "mindfulness", "language"],
+      "emoji": "🌿"
+    },
+    {
+      "id": "act_012",
+      "title": "Obstacle Course Challenge",
+      "titleTe": "అడ్డంకుల కోర్సు",
+      "description": "Design a backyard or park obstacle course that requires multi-step instructions.",
+      "descriptionTe": "పార్కులో లేదా ఇంట్లో అడ్డంకుల కోర్సు తయారు చేయండి. శారీరక నైపుణ్యం, వినే శక్తి పెరుగుతుంది.",
+      "category": "outdoor",
+      "developmentalFocus": ["cognitive", "motor", "self-regulation"],
+      "duration": 25,
+      "difficulty": "medium",
+      "materials": ["Chalk", "Hula hoop (optional)", "Cones or sticks for markers"],
+      "youtubeVideoId": "LVHnNHJFijc",
+      "youtubeTitle": "Easy Backyard Obstacle Course for Toddlers",
+      "instructions": [
+        "Design a simple 4-step course: jump over a line, crawl under a blanket, spin 3 times, run to finish.",
+        "Walk through it together slowly first.",
+        "Then say: 'Ready? Go!' and cheer at each stage.",
+        "Time them loosely so they can try to beat their 'score.'",
+        "Let them redesign a section of the course."
+      ],
+      "instructionsTe": [
+        "4 దశల కోర్సు తయారు చేయండి: గీత దాటి గెంతు, దుప్పటి కింద పాకు, 3 సార్లు తిరుగు, పరుగెత్తు.",
+        "ముందు నెమ్మదిగా కలిసి ప్రాక్టీస్ చేయండి.",
+        "తర్వాత: 'రెడీ? గో!' అని గట్టిగా ప్రోత్సహించండి.",
+        "సమయం చూసి మళ్ళీ త్వరగా చేయమని ప్రోత్సహించండి.",
+        "పిల్లలు ఒక భాగం రీడిజైన్ చేయనివ్వండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 15,
+      "tags": ["motor", "obstacle course", "physical", "listening", "sequential"],
+      "emoji": "🏃"
+    },
+    {
+      "id": "act_013",
+      "title": "Garden Colour Hunt",
+      "titleTe": "తోటలో రంగుల వేట",
+      "description": "A structured colour scavenger hunt in the garden or park.",
+      "descriptionTe": "తోటలో వివిధ రంగుల వస్తువులు వెతకండి. పరిశీలన, పదజాలం మరియు సంతోషకరమైన శ్రద్ధ నేర్పుతుంది.",
+      "category": "outdoor",
+      "developmentalFocus": ["cognitive", "language"],
+      "duration": 20,
+      "difficulty": "easy",
+      "materials": ["Colour chart (draw 6 colour squares on paper)", "Pencil to tick off found colours"],
+      "youtubeVideoId": "aSqbFSwT8rI",
+      "youtubeTitle": "Nature Color Scavenger Hunt for Kids",
+      "instructions": [
+        "Create a simple chart with 6 colour squares: red, yellow, green, brown, white, purple.",
+        "Explain: 'We're going to find something in nature for every colour!'",
+        "Walk slowly through the garden or park searching together.",
+        "When a colour is found, tick it off and name the object.",
+        "Bonus: touch, smell, or describe each find in one word."
+      ],
+      "instructionsTe": [
+        "6 రంగుల గళ్ళతో ఒక చిన్న చార్ట్ తయారు చేయండి: ఎర్ర, పసుపు, పచ్చ, గోధుమ, తెలుపు, వైలెట్.",
+        "చెప్పండి: 'ప్రతి రంగుకూ ప్రకృతిలో ఒక విషయం కనుగొంటాం!'",
+        "నెమ్మదిగా తోటలో నడుస్తూ కలిసి వెతకండి.",
+        "రంగు కనుగొన్నప్పుడు గుర్తు వేసి వస్తువు పేరు చెప్పండి.",
+        "బోనస్: ప్రతి వస్తువును ముట్టుకోండి, వాసన చూడండి, ఒక మాటలో వివరించండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 10,
+      "tags": ["colours", "nature", "language", "observation", "scavenger hunt"],
+      "emoji": "🌸"
+    },
+    {
+      "id": "act_014",
+      "title": "Cloud Story Time",
+      "titleTe": "మేఘాల కథ చెప్పడం",
+      "description": "Lie on a blanket and find shapes in clouds together, building a shared story.",
+      "descriptionTe": "దంబళంపై పడుకుని మేఘాల ఆకారాలు చూసి కలిసి కథ చెప్పండి. సృజనాత్మకత, భాష పెరుగుతుంది.",
+      "category": "outdoor",
+      "developmentalFocus": ["cognitive", "language", "empathy"],
+      "duration": 20,
+      "difficulty": "easy",
+      "materials": ["Blanket", "Clear or partly cloudy day"],
+      "youtubeVideoId": "0PsNeO4ROrY",
+      "youtubeTitle": "Cloud Watching Story Activity for Children",
+      "instructions": [
+        "Lay a blanket in an open area and lie on your backs together.",
+        "Spend one minute just watching in silence.",
+        "Point to a cloud: 'I see a dragon! He's looking for his lost treasure.'",
+        "Invite your child: 'What do you see? What's happening in YOUR cloud?'",
+        "Build a shared story where each cloud becomes a new character."
+      ],
+      "instructionsTe": [
+        "బయట తెరిచిన చోట దంబళం పరచి వెల్లకిలా పడుకోండి.",
+        "ఒక నిమిషం మౌనంగా చూడండి.",
+        "ఒక మేఘం వేలుతో చూపించి: 'నాకు ఒక డ్రాగన్ కనిపిస్తోంది!'",
+        "పిల్లలను అడగండి: 'నీకు ఏమి కనిపిస్తోంది? ఆ మేఘంలో ఏమి జరుగుతోంది?'",
+        "ప్రతి మేఘం ఒక కొత్త పాత్ర అయ్యే కథ కలిసి తయారు చేయండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 10,
+      "tags": ["imagination", "language", "storytelling", "nature", "mindfulness"],
+      "emoji": "☁️"
+    },
+    {
+      "id": "act_015",
+      "title": "Sidewalk Chalk Emotions",
+      "titleTe": "సున్నపు చాక్ భావాల ఆట",
+      "description": "Draw giant emotion faces on the pavement and physically jump into each feeling.",
+      "descriptionTe": "ఫుట్‌పాత్‌పై పెద్ద భావాల ముఖాలు గీసి వాటిలో గెంతండి. శారీరక చలనంతో భావాలు నేర్చుకోండి.",
+      "category": "outdoor",
+      "developmentalFocus": ["emotional", "empathy", "motor"],
+      "duration": 20,
+      "difficulty": "easy",
+      "materials": ["Sidewalk chalk (multiple colours)", "Driveway or pavement area"],
+      "youtubeVideoId": "hDi6Ney_BsA",
+      "youtubeTitle": "Chalk Emotions Activity for Toddlers and Preschoolers",
+      "instructions": [
+        "Draw 4–5 large circle faces with different expressions.",
+        "Label each one and say its name while drawing.",
+        "Play: 'Jump into the face that shows how you feel when I take your toy!'",
+        "Ask: 'What does the ANGRY face do with their hands?'",
+        "End with everyone jumping into 'happy' and doing a happy dance."
+      ],
+      "instructionsTe": [
+        "4-5 పెద్ద గుండ్రటి ముఖాలు వేర్వేరు భావాలతో గీయండి.",
+        "గీస్తూ ప్రతి భావం పేరు చెప్పండి.",
+        "ఆడండి: 'నేను నీ బొమ్మ తీసుకుంటే నీకు ఏ భావం కలుగుతుంది? ఆ ముఖంలోకి గెంతు!'",
+        "అడగండి: 'కోపంగా ఉన్నప్పుడు చేతులు ఏమి చేస్తాయి?'",
+        "చివరలో అందరూ 'సంతోషపు' ముఖంలోకి గెంతి నృత్యం చేయండి."
+      ],
+      "milestoneCategory": "emotional",
+      "points": 15,
+      "tags": ["chalk", "emotions", "motor", "empathy", "movement"],
+      "emoji": "🖍️"
+    },
+    {
+      "id": "act_016",
+      "title": "Nature Sound Listening Walk",
+      "titleTe": "ప్రకృతి శబ్దాలు వినే నడక",
+      "description": "A quiet walk focused entirely on listening. Children count sounds they hear.",
+      "descriptionTe": "నెమ్మదిగా నడుస్తూ వినే శబ్దాలు లెక్కించండి. శ్రవణ శ్రద్ధ, సహనం, భాష నేర్పుతుంది.",
+      "category": "outdoor",
+      "developmentalFocus": ["cognitive", "language", "self-regulation"],
+      "duration": 20,
+      "difficulty": "easy",
+      "materials": ["No materials needed"],
+      "youtubeVideoId": "YOPf8lGzXiU",
+      "youtubeTitle": "Nature Sound Walk Mindfulness Activity for Kids",
+      "instructions": [
+        "Find a park, garden, or quiet street.",
+        "Stop every 2 minutes and say: 'Shhh — close your eyes. What can you HEAR?'",
+        "Help them name sounds: birds, wind, cars, leaves, footsteps.",
+        "Challenge: 'Can you hear something far away? Something very soft?'",
+        "Back home, draw or describe the most interesting sound they heard."
+      ],
+      "instructionsTe": [
+        "పార్కు, తోట లేదా నిశ్శబ్ద వీధి వెతకండి.",
+        "2 నిమిషాలకు ఒకసారి ఆగి: 'Shhh — కళ్ళు మూసుకో. ఏమి వినిపిస్తోంది?'",
+        "శబ్దాల పేర్లు నేర్పండి: పక్షులు, గాలి, కార్లు, ఆకులు, అడుగుల చప్పుడు.",
+        "సవాలు: 'దూరంగా ఏదైనా వినిపిస్తోందా? చాలా నెమ్మదిగా ఏమైనా వినిపిస్తోందా?'",
+        "ఇంటికి వచ్చాక అన్నిటికంటే ఆసక్తికరమైన శబ్దం గురించి చెప్పండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 10,
+      "tags": ["listening", "nature", "language", "mindfulness", "auditory"],
+      "emoji": "👂"
+    },
+    {
+      "id": "act_017",
+      "title": "Puddle & Water Play Math",
+      "titleTe": "నీళ్ళతో లెక్కల ఆట",
+      "description": "Use water play to explore concepts of more, less, full, and empty.",
+      "descriptionTe": "వేర్వేరు పాత్రలలో నీళ్ళు పోసి ఎక్కువ, తక్కువ, నిండు, ఖాళీ నేర్చుకోండి.",
+      "category": "outdoor",
+      "developmentalFocus": ["cognitive", "motor", "language"],
+      "duration": 25,
+      "difficulty": "easy",
+      "materials": ["Water source (tap or hose)", "3–4 containers of different sizes", "Waterproof apron"],
+      "youtubeVideoId": "M9kbvNGhOzQ",
+      "youtubeTitle": "Water Play Math Activity for Toddlers",
+      "instructions": [
+        "Set up containers of very different sizes: tiny cup, medium jug, large bucket.",
+        "Ask: 'Which one do you think holds the MOST water?'",
+        "Let them pour and test.",
+        "Use language constantly: 'Is the bucket full or empty?'",
+        "Let them play freely for 10 minutes after."
+      ],
+      "instructionsTe": [
+        "వేర్వేరు పరిమాణాల పాత్రలు తయారు చేయండి: చిన్న కప్పు, మధ్యమ జగ్, పెద్ద బకెట్.",
+        "అడగండి: 'ఏ పాత్రలో అన్నిటికంటే ఎక్కువ నీళ్ళు పడతాయి?'",
+        "పోసి పరీక్షించనివ్వండి.",
+        "నిరంతరం మాట్లాడండి: 'బకెట్ నిండా ఉందా ఖాళీగా ఉందా?'",
+        "10 నిమిషాలు స్వేచ్ఛగా ఆడనివ్వండి."
+      ],
+      "milestoneCategory": "intellectual",
+      "points": 15,
+      "tags": ["water", "math", "motor", "language", "science"],
+      "emoji": "💧"
+    },
+    {
+      "id": "act_018",
+      "title": "Kindness Rock Painting",
+      "titleTe": "దయ రాళ్ళు రంగులు వేయడం",
+      "description": "Find smooth rocks outdoors, paint them with kind messages, and leave them for others.",
+      "descriptionTe": "మృదువైన రాళ్ళు వెతికి రంగులు వేసి ఇతరులకు ఇవ్వండి. సానుభూతి, సమాజ స్పృహ నేర్పుతుంది.",
+      "category": "outdoor",
+      "developmentalFocus": ["empathy", "motor", "emotional"],
+      "duration": 30,
+      "difficulty": "medium",
+      "materials": ["Smooth flat rocks", "Washable outdoor paint", "Paintbrushes", "Clear sealant (optional)"],
+      "youtubeVideoId": "c7dM7IGQN5o",
+      "youtubeTitle": "Kindness Rocks Project for Kids",
+      "instructions": [
+        "Go on a short walk to find 2–3 smooth, flat rocks together.",
+        "Back outside, paint the rocks with happy faces, stars, hearts.",
+        "Talk while painting: 'Who might find this rock? How will it make them feel?'",
+        "Once dry, walk together to leave the rocks somewhere a stranger will find them.",
+        "Ask: 'How does it make YOUR heart feel to do something kind?'"
+      ],
+      "instructionsTe": [
+        "కలిసి 2-3 మృదువైన, చదునైన రాళ్ళు వెతకండి.",
+        "సంతోషపు ముఖాలు, నక్షత్రాలు, గుండెలు రంగులు వేయండి.",
+        "మాట్లాడండి: 'ఈ రాయి ఎవరికి దొరుకుతుంది? వారికి ఎలా అనిపిస్తుంది?'",
+        "ఆరిన తర్వాత రాళ్ళు ఎవరికైనా దొరికే చోట పెట్టడానికి వెళ్ళండి.",
+        "అడగండి: 'మంచి పని చేయడం నీ హృదయానికి ఎలా అనిపిస్తోంది?'"
+      ],
+      "milestoneCategory": "emotional",
+      "points": 20,
+      "tags": ["kindness", "empathy", "art", "motor", "community"],
+      "emoji": "🪨"
+    }
+  ],
+  "milestones": [
+    {
+      "id": "ms_001",
+      "title": "Feeling Explorer",
+      "titleTe": "భావ అన్వేషకుడు",
+      "description": "Named and discussed 3 different emotions",
+      "descriptionTe": "3 వేర్వేరు భావాలను పేరు చెప్పి చర్చించారు",
+      "category": "emotional",
+      "requiredPoints": 30,
+      "emoji": "💛"
+    },
+    {
+      "id": "ms_002",
+      "title": "Empathy Sprout",
+      "titleTe": "సానుభూతి మొలక",
+      "description": "Completed 3 empathy-focused activities",
+      "descriptionTe": "3 సానుభూతి కార్యక్రమాలు పూర్తి చేసారు",
+      "category": "emotional",
+      "requiredPoints": 60,
+      "emoji": "🌱"
+    },
+    {
+      "id": "ms_003",
+      "title": "Calm Champion",
+      "titleTe": "శాంతి ఛాంపియన్",
+      "description": "Practised self-regulation techniques",
+      "descriptionTe": "శాంతి పాటించే పద్ధతులు అభ్యసించారు",
+      "category": "emotional",
+      "requiredPoints": 90,
+      "emoji": "🧘"
+    },
+    {
+      "id": "ms_004",
+      "title": "Kind Heart",
+      "titleTe": "మంచి హృదయం",
+      "description": "Showed kindness and empathy in activities",
+      "descriptionTe": "కార్యక్రమాలలో దయ మరియు సానుభూతి చూపించారు",
+      "category": "emotional",
+      "requiredPoints": 130,
+      "emoji": "💚"
+    },
+    {
+      "id": "ms_005",
+      "title": "Little Thinker",
+      "titleTe": "చిన్న ఆలోచనకర్త",
+      "description": "Completed first 3 cognitive activities",
+      "descriptionTe": "మొదటి 3 జ్ఞాన కార్యక్రమాలు పూర్తి చేసారు",
+      "category": "intellectual",
+      "requiredPoints": 30,
+      "emoji": "🧩"
+    },
+    {
+      "id": "ms_006",
+      "title": "Word Builder",
+      "titleTe": "పదాల నిర్మాత",
+      "description": "Explored language through 3 activities",
+      "descriptionTe": "3 కార్యక్రమాల ద్వారా భాషను అన్వేషించారు",
+      "category": "intellectual",
+      "requiredPoints": 60,
+      "emoji": "📚"
+    },
+    {
+      "id": "ms_007",
+      "title": "Junior Scientist",
+      "titleTe": "చిన్న శాస్త్రవేత్త",
+      "description": "Completed 5 exploration-based activities",
+      "descriptionTe": "5 అన్వేషణ ఆధారిత కార్యక్రమాలు పూర్తి చేసారు",
+      "category": "intellectual",
+      "requiredPoints": 100,
+      "emoji": "🔬"
+    },
+    {
+      "id": "ms_008",
+      "title": "Super Learner",
+      "titleTe": "సూపర్ నేర్చుకొనేవాడు",
+      "description": "Reached 150 intellectual learning points",
+      "descriptionTe": "150 మేధా అభ్యాస పాయింట్లు సాధించారు",
+      "category": "intellectual",
+      "requiredPoints": 150,
+      "emoji": "⭐"
+    }
+  ]
+}
