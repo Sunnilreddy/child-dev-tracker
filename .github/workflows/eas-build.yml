@@ -1,25 +1,38 @@
-name: EAS Build APK
+name: Build APK
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18.x
+          node-version: "18"
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install -g eas-cli
 
-      - name: Build APK with EAS
-        run: npx eas build --platform android --non-interactive --wait
+      - name: Verify EAS token
+        run: |
+          if [ -z "$EAS_TOKEN" ]; then
+            echo "ERROR: EAS_TOKEN is not set"
+            exit 1
+          fi
+          echo "✓ EAS token is set"
+        env:
+          EAS_TOKEN: ${{ secrets.EAS_TOKEN }}
+
+      - name: Build with EAS
+        run: eas build --platform android --non-interactive --wait
         env:
           EAS_TOKEN: ${{ secrets.EAS_TOKEN }}
